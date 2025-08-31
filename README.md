@@ -7,7 +7,5 @@ This Flutter project demonstrates how to integrate both **Google Fonts** and **t
 ## Features
 - Use of custom fonts from local assets.
 - Integration of Google Fonts via `google_fonts` package.
-- Clean and minimal font setup for multiple widgets and themes.
 
----
 
